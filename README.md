@@ -1,2 +1,5 @@
 # chat-client
-![](https://upload-images.jianshu.io/upload_images/12937961-f4fb62b4f875b446.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/quan930/chat-client/blob/master/1.png)
+![](https://github.com/quan930/chat-client/blob/master/2.png)
+![](https://github.com/quan930/chat-client/blob/master/3.png)
+![](https://github.com/quan930/chat-client/blob/master/4.png)
